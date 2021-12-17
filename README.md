@@ -16,20 +16,14 @@
 ```
 ## Data Set [Link](https://finance.yahoo.com/quote/AAPL/) :
 
-- Step1 - Write the command labelImg in the Anaconda Terminal which will open a window as shown below.
-
-```Bash
-labelimg
-```
-
-![data](images/data.png)
+![data](Images/data.png)
 
 ## Plotting all the data:
 
-![ss1](images/ss1.png)
+![ss1](Images/ss1.png)
 
 # Prediction for next 3 months:
 
-![predict](images/predict.png)
+![predict](Images/predict.png)
 
 
